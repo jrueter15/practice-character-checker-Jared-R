@@ -24,6 +24,3 @@ else if (letterLocation > userName.length - 1){
         console.log("The letter at index location " + letterLocation + " is: " + userName[letterLocation]);
     }
 
-
-//console.log("The letter at index location " + location + " is: " + name.charAt(location)); 
-// Output the letter at the index location
